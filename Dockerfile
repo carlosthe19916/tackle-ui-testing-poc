@@ -1,3 +1,4 @@
+change this
 FROM registry.access.redhat.com/ubi8/nginx-118
 
 # Add application sources to a directory that the assemble script expects them

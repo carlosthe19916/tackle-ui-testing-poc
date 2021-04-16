@@ -17,3 +17,4 @@ flags:
     carryforward: false
   e2etests:
     carryforward: false
+destroy
